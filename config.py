@@ -1,7 +1,7 @@
 import os
 import ProxyCloud
 
-BOT_TOKEN =  os.environ.get('bot_token','5430578573:AAHdqdmrO8OH96TrRoz2QKqDcHB_GGtAlxk')
+BOT_TOKEN =  os.environ.get('bot_token','5607096633:AAE3kHcFS0FeUj45BytW-iD_lYZubYevqUU')
 
 API_ID =  os.environ.get('api_id','18641760')
 API_HASH = os.environ.get('api_hash','b7b026ce9d1d36400c02dc21d8df53a3')
